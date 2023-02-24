@@ -1,17 +1,26 @@
 👋 Hi, I am @RedSocks25, or Nicolás Selman Morales as my real name is.
-I am a computer science student, currently ending university, with 23 years old (3 of coding and real projects experience) and living in Chile.
+I am a IT Engineer / Software Developer, graduated from Universidad Adolfo Ibañez, with 23 years old and currently living in Chile.
 
-I have worked mainly in web development and now I am currently working in a web3 startup called Zignar as frontend team lead developer, using React TypeScript for integrate UIs with APIs, backends, and IOTA Smart Contracts making them functional.
+I have almost 4 years of experience working on different projects for different companies, including the university where I studied. Mainly all my work is WEB based, strongly developed with frontend skills for the side of the logics and still learning the design side of things like CSS and such.
 
-I worked for diferent projects and institutions:
-- **Universidad Adolfo Ibañez** (As fullstack dev)
-- **Ministerio de Viviendas de Chile** (As frontend dev and data management)
-- **Zignar Tech** (As fullstack and mainly frontend dev)
+Also I have leadership skills, and I like to develop technology from the first steps starting from the design and ideation process, planning, design and development.
+
+Currently I am working as a frontend team manager, managing:
+- **Tasks development** of 3 team members
+- **Problem solving** in the frontend side
+- **Solutions planning** with Backend team manager
+- **Important integrations** between frontend and backend
+- **Workflow standarization**
+- **Tasks assignation** between frontend team members depending of their own skills and what the would like to learn
 
 Languages and framworks used:
-- **React** with TS (Frontend)
-- **NestJS** and **NodeJS** (Backend, APIs)
+- **NextJS**
+- **NestJS**
 - **Laravel** with PHP (Backend, APIs)
+- **Typescript**
+- **Javascript**
+- **TailwindCSS**
+- **HTML**
 - **Python** (Computer Science)
 - And more...
 
